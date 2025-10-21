@@ -1,0 +1,51 @@
+#penjelasan-subuh {
+    transition: transform 0.3s ease;
+}
+
+#penjelasan-subuh:hover {
+    transform: scale(1.1);
+}
+#penjelasan-dzuhur {
+    transition: transform 0.3s ease;
+}
+
+#penjelasan-dzuhur:hover {
+    transform: scale(1.1);
+}
+#penjelasan-ashar {
+    transition: transform 0.3s ease;
+}
+
+#penjelasan-ashar:hover {
+    transform: scale(1.1);
+}
+#penjelasan-magrib {
+    transition: transform 0.3s ease;
+}
+
+#penjelasan-magrib:hover {
+    transform: scale(1.1);
+}
+#penjelasan-isya {
+    transition: transform 0.3s ease;
+}
+
+#penjelasan-isya:hover {
+    transform: scale(1.1);
+}
+
+.keistimewaan-menarik p{
+  margin: auto;
+  text-align: center;
+  background-color: #26deff;
+  box-shadow: 2px 5px 1px black;
+  flex-direction: column;
+  width: 500px;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+
+}
+
+.keistimewaan-menarik p:hover{
+  transform: scale(1.1);
+}
